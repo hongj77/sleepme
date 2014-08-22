@@ -1,4 +1,4 @@
 sleepme
 =======
 
-Android application that tracks your REM cycles and makes sleeping time suggestions by automatically tracking when you wake up and go to bed by using GPS location, accelerometer, and historical data. 
+Android application that tracks your REM cycles and displays sleep statistics. It automatically tracks the time you wake up and the time you go to bed by by using touch screen activity, accelerometer, historical data, and GPS location.
